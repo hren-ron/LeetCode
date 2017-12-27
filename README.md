@@ -4,8 +4,9 @@ Some personal solution about those questions on leetcode
 ## Overview
 ### Some questions on leetcode
 #### Array
- | id | titile          | id | title          | id | title          |
- | :-:| :-------------: | :-:| :-------------:| :-:| :-------------:|
- | 1  | Two Sum         | 268| Missing Number | 283|  Move Zeroes   |
- |461 | Hamming Distance| 581| Shortest Unsorted Continuous Subarray | 674|  Longest Continuous Increasing Subsequence   |
- |118 | Pascal's Triangle|119| Pascal's Triangle II|
+ | id  | titile           |solution|difficulty| id | title          |solution| difficulty|
+ |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
+ | 1   | Two Sum | [python](./python/Array/1.Two Sum.py) |easy      |268 | Missing Number |python  |easy|
+ | 283 | Move Zeroes      |python|easy| 461  | Hamming Distance|python|easy
+ | 581 | Shortest Unsorted Continuous Subarray |python|easy| 674|  Longest Continuous Increasing Subsequence|python|easy|
+ |118  | Pascal's Triangle|python|easy|119| Pascal's Triangle II|python|easy|
