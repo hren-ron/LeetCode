@@ -6,7 +6,7 @@ Some personal solution about those questions on leetcode
 #### Array
  | id  | titile           |solution|difficulty| id | title          |solution| difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
- | 1   | Two Sum | [python](http://www.baidu.com) |easy      |268 | Missing Number |[python](./python/Array/268. Missing Number.py )  |easy|
- | 283 | Move Zeroes      |python|easy| 461  | Hamming Distance|python|easy
- | 581 | Shortest Unsorted Continuous Subarray |python|easy| 674|  Longest Continuous Increasing Subsequence|python|easy|
- |118  | Pascal's Triangle|python|easy|119| Pascal's Triangle II|python|easy|
+ | 1   | Two Sum | [python](./python/Array/1_Two_Sum.py) |easy      |268 | Missing Number |[python](./python/Array/268_Missing_Number.py )  |easy|
+ | 283 | Move Zeroes      |python(./python/Array/283_Move_Zeroes.py)|easy| 461  | Hamming Distance|python(./python/Array/461_Hamming_Distance.py)|easy
+ | 581 | Shortest Unsorted Continuous Subarray |python(./python/Array/581_Shortest_Unsorted_Continuous_Subarray.py)|easy| 674|  Longest Continuous Increasing Subsequence|python(./python/Array/674_Longest_Continuous_Increasing_Subsequence.py)|easy|
+ |118  | Pascal's Triangle|python(./python/Array/118_Pascal's_Triangle.py)|easy|119| Pascal's Triangle II|python(./python/Array/119_Pascal's_Triangle_II.py)|easy|
