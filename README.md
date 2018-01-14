@@ -15,3 +15,10 @@ Some personal solution about those questions on leetcode
  |27   |Remove Element    |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/27_Remove_Element.py)|easy| 121|Best Time to Buy and Sell Stock|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/121_Best_Time_to_Buy_and_Sell_Stock.py)|easy|
  |122  |Best Time to Buy and Sell Stock II|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/122_Best_Time_to_Buy_and_Sell_Stock_II.py)|easy| 35|Search Insert Position|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/35_Search_Insert_Position.py)|easy|
  |628  |Maximum Product of Three Numbers|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/628_Maximum_Product_of_Three_Numbers.py)|easy|414|Third Maximum Number|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/414_Third_Maximum_Number.py)|easy|
+ |643  |Maximum Average Subarray I|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/643_Maximum_Average_Subarray_I.py) |easy|448|Find All Numbers Disappeared in an Array|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/448_Find_All_Numbers_Disappeared_in_an_Array.py) |easy|
+ |485  |Max Consecutive Ones|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/485_Max_Consecutive_Ones.py) |easy|88|Merge Sorted Array|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/88_Merge_Sorted_Array.py) |easy|
+ |605  |Can Place Flowers |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/605_Can_Place_Flowers.py) |easy|566|Reshape the Matrix|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/566_Reshape_the_Matrix.py) |easy|
+
+
+
+
