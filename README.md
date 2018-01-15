@@ -18,7 +18,7 @@ Some personal solution about those questions on leetcode
  |643  |Maximum Average Subarray I|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/643_Maximum_Average_Subarray_I.py) |easy|448|Find All Numbers Disappeared in an Array|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/448_Find_All_Numbers_Disappeared_in_an_Array.py) |easy|
  |485  |Max Consecutive Ones|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/485_Max_Consecutive_Ones.py) |easy|88|Merge Sorted Array|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/88_Merge_Sorted_Array.py) |easy|
  |605  |Can Place Flowers |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/605_Can_Place_Flowers.py) |easy|566|Reshape the Matrix|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/566_Reshape_the_Matrix.py) |easy|
-
+ |561  |Array Partition I |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/561_Array_Partition_I.py) |easy|746|Min Cost Climbing Stairs|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/746_Min_Cost_Climbing_Stairs.py) |easy|
 
 
 
