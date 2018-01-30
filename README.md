@@ -20,7 +20,7 @@ Some personal solution about those questions on leetcode
  |605  |Can Place Flowers |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/605_Can_Place_Flowers.py) |easy|566|Reshape the Matrix|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/566_Reshape_the_Matrix.py) |easy|
  |561  |Array Partition I |[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/561_Array_Partition_I.py) |easy|746|Min Cost Climbing Stairs|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/746_Min_Cost_Climbing_Stairs.py) |easy|
  |747  |Largest Number At Least Twice of Others|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/747_Largest_Number_At_Least_Twice_of_Others.py) |easy|724|Find Pivot Index|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/724_Find_Pivot_Index.py) |easy|
-
+ |697  |Degree of an Array|[python]((https://github.com/hren-ron/LeetCode/blob/master/python/Array/697_Degree_of_an_Array.py) |easy|665|Non-decreasing Array|[python](https://github.com/hren-ron/LeetCode/blob/master/python/Array/665_Non-decreasing_Array.py) |easy|
 
 
 
