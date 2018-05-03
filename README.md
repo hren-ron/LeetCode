@@ -26,4 +26,6 @@ Some personal solution about those questions on leetcode
 #### Dynamic Programming
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
- |70|Climbing Stairs|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/70_Climbing_Stairs.py)|easy| 
+ |70|Climbing Stairs|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/70_Climbing_Stairs.py)|easy| 152|Maximum Product Subarray|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/152_Maximum_Product_Subarray.py)| medium|
+ |198|House Robber|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/198_House_Robber.py) |easy|213|House Robber II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/198_House_Robber_II.py) |medium|
+ |392|Is Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/392_Is_Subsequence.py) |medium|746|Min Cost Climbing Stairs|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/746_Min_Cost_Climbing_Stairs.py) |easy|
