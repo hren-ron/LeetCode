@@ -23,7 +23,7 @@ Some personal solution about those questions on leetcode
  |697  |Degree of an Array|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/697_Degree_of_an_Array.py) |easy|665|Non-decreasing Array|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/665_Non-decreasing_Array.py) |easy|
  |169  |Majority Element|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/169_Majority_Element.py) |easy|766|Toeplitz Matrix|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/766_Toeplitz_Matrix.py) |easy|
 
-####Dynamic Programming
+#### Dynamic Programming
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
  |70|Climbing Stairs|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/70_Climbing_Stairs.py)|easy| 
