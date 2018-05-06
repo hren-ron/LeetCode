@@ -31,9 +31,9 @@ Some personal solution about those questions on leetcode
  |392|Is Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/392_Is_Subsequence.py) |medium|746|Min Cost Climbing Stairs|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/746_Min_Cost_Climbing_Stairs.py) |easy|
  |309|Best Time to Buy and Sell Stock with Cooldown|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py) |medium|32|Longest Valid Parentheses|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/32_Longest_Valid_Parentheses.py) |hard|
 
-
 #### Greed
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
+ |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
  |134|Gas Station|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/134_Gas_Station.py) |easy|55|Jump Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/55_Jump_Game.py) |medium|
  |45|Jump Game II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/45_Jump_Game_II.py) |hard|122|Best Time to Buy and Sell Stock II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/122_Best_Time_to_Buy_and_Sell_Stock_II.py) |easy|
  |392|Is Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/392_Is_Subsequence.py) |medium|455|Assign Cookies|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/455_Assign_Cookies.py) |easy|
