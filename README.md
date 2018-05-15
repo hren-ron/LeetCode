@@ -32,6 +32,7 @@ Some personal solution about those questions on leetcode
  |309|Best Time to Buy and Sell Stock with Cooldown|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py) |medium|32|Longest Valid Parentheses|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/32_Longest_Valid_Parentheses.py) |hard|
  |64|Minimum Path Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/64_Minimum_Path_Sum.py) |medium|63|Unique Paths II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/63_Unique_Paths_II.py) |medium|
  |72|Edit Distance|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/72_Edit_Distance.py) |hard|264|Ugly Number II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/264_Ugly_Number_II.py)|medium|
+ |813|Largest Sum of Averages|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/813_Largest_Sum_of_Averages.py) |medium|343|Integer Break|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/343_Integer_Break.py) |medium|
 
 #### Greed
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
