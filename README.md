@@ -34,12 +34,14 @@ Some personal solution about those questions on leetcode
  |72|Edit Distance|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/72_Edit_Distance.py) |hard|264|Ugly Number II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/264_Ugly_Number_II.py)|medium|
  |813|Largest Sum of Averages|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/813_Largest_Sum_of_Averages.py) |medium|343|Integer Break|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/343_Integer_Break.py) |medium|
  |303|Range Sum Query - Immutable|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/303_Range_Sum_Query_Immutable.py)|easy| 53|Maximum Subarray|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/53_Maximum_Subarray.py) |easy| 
+ |801|Minimum Swaps To Make Sequences Increasing|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/801_Minimum_Swaps_To_Make_Sequences_Increasing.py) |medium|
 
-#### Greed
+#### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
  |134|Gas Station|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/134_Gas_Station.py) |easy|55|Jump Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/55_Jump_Game.py) |medium|
  |45|Jump Game II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/45_Jump_Game_II.py) |hard|122|Best Time to Buy and Sell Stock II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/122_Best_Time_to_Buy_and_Sell_Stock_II.py) |easy|
  |392|Is Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/392_Is_Subsequence.py) |medium|455|Assign Cookies|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/455_Assign_Cookies.py) |easy|
  |135|Candy|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/135_Candy.py) |hard|316|Remove Duplicate Letters|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/316_Remove_Duplicate_Letters.py) |hard|
+ |402|Remove K Digits|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/402_Remove_K_Digits.py) |medium|
 
