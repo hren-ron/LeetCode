@@ -37,8 +37,8 @@ Some personal solution about those questions on leetcode
  |801|Minimum Swaps To Make Sequences Increasing|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/801_Minimum_Swaps_To_Make_Sequences_Increasing.py) |medium|300|Longest Increasing Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/300_Longest_Increasing_Subsequence.py) |medium|
  |5 |Longest Palindromic Substring|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/5_Longest_Palindromic_Substring.py) |medium|375|Guess Number Higher or Lower II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/375_Guess_Number_Higher_or_Lower_II.py) |medium|
  |698|Partition to K Equal Sum Subsets|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/698_Partition_to_K_Equal_Sum_Subsets.py) |medium|740|Delete and Earn|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/740_Delete_and_Earn.py) |medium|
- |464|Can I Win|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/464_Can_I_Win.py) |medium|
-
+ |464|Can I Win|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/464_Can_I_Win.py) |medium|139|Word Break|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/139_Word_Break.py) |medium|
+ |673|Number of Longest Increasing Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/673_Number_of_Longest_Increasing_Subsequence.py) |medium|
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
