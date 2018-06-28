@@ -39,8 +39,8 @@ Some personal solution about those questions on leetcode
  |698|Partition to K Equal Sum Subsets|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/698_Partition_to_K_Equal_Sum_Subsets.py) |medium|740|Delete and Earn|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/740_Delete_and_Earn.py) |medium|
  |464|Can I Win|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/464_Can_I_Win.py) |medium|139|Word Break|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/139_Word_Break.py) |medium|
  |673|Number of Longest Increasing Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/673_Number_of_Longest_Increasing_Subsequence.py) |medium|123|Best Time to Buy and Sell Stock III|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/123_Best_Time_to_Buy_and_Sell_Stock_III.py) |hard|
- |837|New 21 Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/837_New_21_Game.py) |medium|
-
+ |837|New 21 Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/837_New_21_Game.py) |medium|650|2 Keys Keyboard|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/650_2_Keys_Keyboard.py) |medium|
+ |4  |Median of Two Sorted Arrays|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/4_Median_of_Two_Sorted_Arrays.py) |hard|
 
 
 
