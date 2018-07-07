@@ -42,7 +42,8 @@ Some personal solution about those questions on leetcode
  |837|New 21 Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/837_New_21_Game.py) |medium|650|2 Keys Keyboard|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/650_2_Keys_Keyboard.py) |medium|
  |4  |Median of Two Sorted Arrays|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/4_Median_of_Two_Sorted_Arrays.py) |hard|357|Count Numbers with Unique Digits|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/357_Count_Numbers_with_Unique_Digits.py) |medium|
  |523|Continuous Subarray Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/523_Continuous_Subarray_Sum.py) |medium|368|Largest Divisible Subset|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/368_Largest_Divisible_Subset.py) |medium|
- |188|Best Time to Buy and Sell Stock IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py) |hard|
+ |188|Best Time to Buy and Sell Stock IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py) |hard|838|Push Dominoes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/838_Push_Dominoes.py) |medium|
+ |847|Shortest Path Visiting All Nodes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/847_Shortest_Path_Visiting_All_Nodes.py) |hard|279|Perfect Squares|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/279_Perfect_Squares.py) |medium|
 
 
 
