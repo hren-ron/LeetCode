@@ -44,8 +44,8 @@ Some personal solution about those questions on leetcode
  |523|Continuous Subarray Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/523_Continuous_Subarray_Sum.py) |medium|368|Largest Divisible Subset|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/368_Largest_Divisible_Subset.py) |medium|
  |188|Best Time to Buy and Sell Stock IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/188_Best_Time_to_Buy_and_Sell_Stock_IV.py) |hard|838|Push Dominoes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/838_Push_Dominoes.py) |medium|
  |847|Shortest Path Visiting All Nodes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/847_Shortest_Path_Visiting_All_Nodes.py) |hard|279|Perfect Squares|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/279_Perfect_Squares.py) |medium|
-
-
+ |322|Coin Change|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/322_Coin_Change.py) |medium|413|Arithmetic Slices|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/413_Arithmetic_Slices.py) |medium|
+ |446|Arithmetic Slices II - Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/446_Arithmetic_Slices_II_Subsequence.py) |hard|312|Burst Balloons|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/312_Burst_Balloons.py) |hard|
 
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
