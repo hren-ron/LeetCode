@@ -46,6 +46,7 @@ Some personal solution about those questions on leetcode
  |847|Shortest Path Visiting All Nodes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/847_Shortest_Path_Visiting_All_Nodes.py) |hard|279|Perfect Squares|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/279_Perfect_Squares.py) |medium|
  |322|Coin Change|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/322_Coin_Change.py) |medium|413|Arithmetic Slices|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/413_Arithmetic_Slices.py) |medium|
  |446|Arithmetic Slices II - Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/446_Arithmetic_Slices_II_Subsequence.py) |hard|312|Burst Balloons|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/312_Burst_Balloons.py) |hard|
+ |787|Cheapest Flights Within K Stops|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/787_Cheapest_Flights_Within_K_Stops.py) |medium|
 
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
