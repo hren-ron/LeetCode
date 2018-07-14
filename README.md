@@ -46,7 +46,9 @@ Some personal solution about those questions on leetcode
  |847|Shortest Path Visiting All Nodes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/847_Shortest_Path_Visiting_All_Nodes.py) |hard|279|Perfect Squares|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/279_Perfect_Squares.py) |medium|
  |322|Coin Change|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/322_Coin_Change.py) |medium|413|Arithmetic Slices|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/413_Arithmetic_Slices.py) |medium|
  |446|Arithmetic Slices II - Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/446_Arithmetic_Slices_II_Subsequence.py) |hard|312|Burst Balloons|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/312_Burst_Balloons.py) |hard|
- |787|Cheapest Flights Within K Stops|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/787_Cheapest_Flights_Within_K_Stops.py) |medium|
+ |787|Cheapest Flights Within K Stops|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/787_Cheapest_Flights_Within_K_Stops.py) |medium|377|Combination Sum IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/377_Combination_Sum_IV.py) |medium|
+ |494|Target Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/494_Target_Sum.py) |medium|
+
 
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
@@ -56,4 +58,5 @@ Some personal solution about those questions on leetcode
  |392|Is Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/392_Is_Subsequence.py) |medium|455|Assign Cookies|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/455_Assign_Cookies.py) |easy|
  |135|Candy|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/135_Candy.py) |hard|316|Remove Duplicate Letters|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/316_Remove_Duplicate_Letters.py) |hard|
  |402|Remove K Digits|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/402_Remove_K_Digits.py) |medium|714|Best Time to Buy and Sell Stock with Transaction Fee|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) |medium|
+ |321|Create Maximum Number|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/321_Create_Maximum_Number.py) |hard|
 
