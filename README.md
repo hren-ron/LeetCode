@@ -48,7 +48,7 @@ Some personal solution about those questions on leetcode
  |446|Arithmetic Slices II - Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/446_Arithmetic_Slices_II_Subsequence.py) |hard|312|Burst Balloons|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/312_Burst_Balloons.py) |hard|
  |787|Cheapest Flights Within K Stops|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/787_Cheapest_Flights_Within_K_Stops.py) |medium|377|Combination Sum IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/377_Combination_Sum_IV.py) |medium|
  |494|Target Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/494_Target_Sum.py) |medium|115|Distinct Subsequences|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/115_Distinct_Subsequences.py) |medium|
- |87|Scramble String|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/87_Scramble_String.py) |hard|
+ |87|Scramble String|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/87_Scramble_String.py) |hard|304|Range Sum Query 2D - Immutable|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/304_Range_Sum_Query_2D_-_Immutable.py) |meidum|
 
 
 #### Greedy
