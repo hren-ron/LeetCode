@@ -49,8 +49,13 @@ Some personal solution about those questions on leetcode
  |787|Cheapest Flights Within K Stops|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/787_Cheapest_Flights_Within_K_Stops.py) |medium|377|Combination Sum IV|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/377_Combination_Sum_IV.py) |medium|
  |494|Target Sum|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/494_Target_Sum.py) |medium|115|Distinct Subsequences|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/115_Distinct_Subsequences.py) |medium|
  |87|Scramble String|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/87_Scramble_String.py) |hard|304|Range Sum Query 2D - Immutable|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/304_Range_Sum_Query_2D_-_Immutable.py) |meidum|
- |877|Stone Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/877_Stone_Game.py) |medium|
-
+ |877|Stone Game|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/877_Stone_Game.py) |medium|516|Longest Palindromic Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/516_Longest_Palindromic_Subsequence.py) |medium|
+ |95|Unique Binary Search Trees II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/95_Unique_Binary_Search_Trees_II.py) |medium|338|Counting Bits|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/338_Counting_Bits.py) |medium|
+ |97|Interleaving String|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/97_Interleaving_String.py) |hard|474|Ones and Zeroes|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/474_Ones_and_Zeroes.py) |medium|
+ |403|Frog Jump|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/403_Frog_Jump.py) |hard|132|Palindrome Partitioning II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/132_Palindrome_Partitioning_II.py) |hard|
+ |120|Triangle|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/120_Triangle.py) |medium|140|Word Break II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/140_Word_Break_II.py) |hard|
+ |873|Length of Longest Fibonacci Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/873_Length_of_Longest_Fibonacci_Subsequence.py) |medium|818|Race Car|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/818_Race_Car.py) |hard|
+ |62|Unique Paths|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/62_Unique_Paths.py) |medium|
 
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
@@ -62,3 +67,9 @@ Some personal solution about those questions on leetcode
  |402|Remove K Digits|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/402_Remove_K_Digits.py) |medium|714|Best Time to Buy and Sell Stock with Transaction Fee|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) |medium|
  |321|Create Maximum Number|[C++](https://github.com/hren-ron/LeetCode/blob/master/Greedy/321_Create_Maximum_Number.py) |hard|
 
+
+
+#### String
+ | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
+ |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
+ |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/String/647_Palindromic_Substrings.py) |medium|
