@@ -23,6 +23,14 @@ Some personal solution about those questions on leetcode
  |697  |Degree of an Array|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/697_Degree_of_an_Array.py) |easy|665|Non-decreasing Array|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/665_Non-decreasing_Array.py) |easy|
  |169  |Majority Element|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/169_Majority_Element.py) |easy|766|Toeplitz Matrix|[python](https://github.com/hren-ron/LeetCode/blob/master/Array/766_Toeplitz_Matrix.py) |easy|
 
+#### Binary Search
+ | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
+ |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
+ |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/29_divide_two_integers.py) |medium|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/74_search_a_2d_matrix.py) |medium|
+ |33|[Search in Rotated Rorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/33_search_in_rotated_sorted_array.py) |medium|81|[Search in Rotated Rorted Rrray ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/81_search_in_rotated_sorted_array_ii.py) |medium|
+ |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/153_find_minimum_in_rotated_sorted_array.py) |medium|154|[Find Minimum in Rotated Sorted Array ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Binary_Search/154_find_minimum_in_rotated_sorted_array_ii.py) |medium|
+
+
 #### Dynamic Programming
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
@@ -55,7 +63,7 @@ Some personal solution about those questions on leetcode
  |403|Frog Jump|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/403_Frog_Jump.py) |hard|132|Palindrome Partitioning II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/132_Palindrome_Partitioning_II.py) |hard|
  |120|Triangle|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/120_Triangle.py) |medium|140|Word Break II|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/140_Word_Break_II.py) |hard|
  |873|Length of Longest Fibonacci Subsequence|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/873_Length_of_Longest_Fibonacci_Subsequence.py) |medium|818|Race Car|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/818_Race_Car.py) |hard|
- |62|Unique Paths|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/62_Unique_Paths.py) |medium|
+ |62|Unique Paths|[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/62_Unique_Paths.py) |medium|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Dynamic_Programming/96_Unique_Binary_Search_Trees.py)|medium|
 
 #### Greedy
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
