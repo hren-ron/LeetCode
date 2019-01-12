@@ -27,8 +27,10 @@ Some personal solution about those questions on leetcode
  |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/216_Combination_Sum_III.py) |medium|78|[Subsets](https://leetcode.com/problems/subsets/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/78_Subsets.py) |medium|
  |79|[Word Search](https://leetcode.com/problems/word-search/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/79_Word_Search.py) |medium|18|[4Sum](https://leetcode.com/problems/4sum/) |[C++]((https://github.com/hren-ron/LeetCode/blob/master/Array/18_4Sum.py) |medium|
  |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/228_Summary_Ranges.py) |medium|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/39_Combination_Sum.py) |medium|
-
-
+ |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/40_Combination_Sum_II.py) |medium|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/31_Next_Permutation.py) |hard|
+ |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/41_First_Missing_Positive.py) |hard|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/42_Trapping_Rain_Water.py) |hard|
+ |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/54_Spiral_Matrix.py) |medium|59|[ Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/59_Spiral_Matrix_II.py) |medium|
+ 
 
 #### Binary Search
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
