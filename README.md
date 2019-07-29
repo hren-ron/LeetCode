@@ -30,6 +30,7 @@ Some personal solution about those questions on leetcode
  |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/40_Combination_Sum_II.py) |medium|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/31_Next_Permutation.py) |hard|
  |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/41_First_Missing_Positive.py) |hard|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/42_Trapping_Rain_Water.py) |hard|
  |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/54_Spiral_Matrix.py) |medium|59|[ Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/59_Spiral_Matrix_II.py) |medium|
+ |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/Array/48_Rotate_Image.py) |medium|
  
 
 #### Binary Search
