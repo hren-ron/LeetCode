@@ -98,3 +98,10 @@ Some personal solution about those questions on leetcode
  | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
  |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
  |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |[C++](https://github.com/hren-ron/LeetCode/blob/master/String/647_Palindromic_Substrings.py) |medium|
+
+
+
+ #### Linked List
+ | ID  | Titile           |Language|Difficulty| ID | Title          |Language| Difficulty|
+ |:---:|:----------------:|:------:|:--------:|:--:|:--------------:|:------:|:---------:|
+ |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/hren-ron/LeetCode/blob/master/Linked List/19. Remove Nth Node From End of List.py)|medium|
